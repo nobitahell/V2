@@ -1,0 +1,13 @@
+{
+  "name": "discord-currency-bot",
+  "version": "1.0.0",
+  "description": "A fun Discord bot with currency commands",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "quick.db": "^9.0.6"
+  }
+}
